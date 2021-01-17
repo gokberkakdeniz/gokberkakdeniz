@@ -6,7 +6,9 @@
 
 🐧 I'm a Linux enthusiast.
 
-📫 You can reach me via [linkedin](https://www.linkedin.com/in/gokberkakdeniz/), email or glance my website [akdeniz.dev](https://akdeniz.dev/).
+📫 You can reach me via [linkedin](https://www.linkedin.com/in/gokberkakdeniz/), email.
+
+💬 You can glance my website [akdeniz.dev](https://akdeniz.dev/) to learn more about me.
 
 <!--
 <p>
