@@ -3,7 +3,7 @@
 I am a junior year computer engineering student at IZTECH.
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=gokberkakdeniz&show_icons=true&theme=ayu-mirage&count_private=true&include_all_commits=true&hide=contribs&custom_title=GitHub%20Stats" alt="github stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gokberkakdeniz&show_icons=true&theme=ayu-mirage&count_private=true&include_all_commits=true&hide=contribs&custom_title=GitHub%20Stats&disable_animations=true" alt="github stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokberkakdeniz&layout=compact&show_icons=true&theme=ayu-mirage&count_private=true" alt="top languages" />
 </p>
 
