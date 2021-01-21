@@ -10,22 +10,16 @@
 
 💬 You can glance my website [akdeniz.dev](https://akdeniz.dev/) to learn more about me.
 
-<!--
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=gokberkakdeniz&show_icons=true&theme=ayu-mirage&count_private=true&include_all_commits=true&hide=contribs&custom_title=GitHub%20Stats&disable_animations=true" alt="github stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokberkakdeniz&layout=compact&show_icons=true&theme=ayu-mirage&count_private=true" alt="top languages" />
-</p>
--->
+#### Technology Stack
 
-<!--
-**gokberkakdeniz/gokberkakdeniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
