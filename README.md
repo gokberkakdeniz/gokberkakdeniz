@@ -2,7 +2,7 @@
 
 👨‍🎓 I'm a junior year computer engineering student at IZTECH.
 
-🧑‍💻 I'm currently a frontend developer in İzmir.
+🧑‍💻 I'm currently a full stack developer in İzmir.
 
 🐧 I'm a Linux enthusiast.
 
