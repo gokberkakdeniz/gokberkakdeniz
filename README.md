@@ -1,6 +1,6 @@
 ### Hi! I'm Gökberk Akdeniz. 👋
 
-👨‍🎓 I'm a junior year computer engineering student at IZTECH.
+👨‍🎓 I'm a fourth year computer engineering student at IZTECH.
 
 🧑‍💻 I'm currently a full stack developer in İzmir.
 
