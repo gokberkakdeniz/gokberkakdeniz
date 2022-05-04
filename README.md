@@ -1,13 +1,9 @@
 ### Hi! I'm Gökberk Akdeniz. 👋
 
 👨‍🎓 I'm a fourth year computer engineering student at IZTECH.
-
 🧑‍💻 I'm currently a full stack developer in İzmir.
-
 🐧 I'm a Linux enthusiast.
-
 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/gokberkakdeniz/) or <span title="the email below profile picture :)">email</span></u>.
-
 💬 You can glance my portfolio at [akdeniz.dev](https://akdeniz.dev/portfolio) to learn more about me.
 
 #### Technology Stack
