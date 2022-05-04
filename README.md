@@ -12,18 +12,8 @@
 
 #### Technology Stack
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=00599C)&nbsp;
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb&logoColor=00599C)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=00599C) ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb&logoColor=00599C) 
 
 #### Statistics
-![Total stars](https://img.shields.io/github/stars/gokberkakdeniz?logo=github)
-![Total forks](https://img.shields.io/badge/dynamic/json?logo=github&label=forks&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/gokberkakdeniz)
+![Total stars](https://img.shields.io/github/stars/gokberkakdeniz?logo=github) ![Total forks](https://img.shields.io/badge/dynamic/json?logo=github&label=forks&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/gokberkakdeniz)
 
