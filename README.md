@@ -26,3 +26,4 @@
 #### Statistics
 ![Total stars](https://img.shields.io/github/stars/gokberkakdeniz?logo=github)
 ![Total forks](https://img.shields.io/badge/dynamic/json?logo=github&label=forks&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/gokberkakdeniz)
+
