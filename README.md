@@ -1,6 +1,6 @@
 ### Hi! I'm Gökberk Akdeniz. 👋
 
-🧑‍💻 I'm a Full Stack Developer at [@jotform](github.com/jotform).
+🧑‍💻 I'm a Full Stack Developer at [Jotform](github.com/jotform).
 
 🐧 I'm a Linux enthusiast.
 
