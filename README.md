@@ -26,4 +26,10 @@
 ![Total stars](https://img.shields.io/github/stars/gokberkakdeniz?logo=github) ![Total forks](https://img.shields.io/badge/dynamic/json?logo=github&label=forks&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/gokberkakdeniz)
 
 <!-- LATEST_POSTS_START -->
+#### Latest blog posts
+
+  - [Compress CSS class names with Gulp (May 28, 2022)](https://akdeniz.dev/blog/gulp-compress-css-classnames/)
+  - [TIL: Type alias augmentation in TypeScript (Sep 20, 2021)](https://akdeniz.dev/blog/typescript-type-alias-augmentation/)
+  - [Dynamic message sources with pattern in Spring Boot (Jul 11, 2021)](https://akdeniz.dev/blog/spring-messagesource-basename-pattern/)
+  - [Integrate MJML and Thymeleaf in Spring Boot (Jul 1, 2021)](https://akdeniz.dev/blog/spring-boot-mjml-and-thymleaf-integration/)
 <!-- LATEST_POSTS_END -->
