@@ -1,0 +1,27 @@
+name: process readme template 
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v3.4.1
+        with:
+          node-version: 18
+
+      - name: run template processor
+        run: node --no-warnings process.mjs 
+
+      - name: commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: akdeniz ci
+          author_email: ci@eakdeniz.dev
+          message: 'New Blog Post Added'
+          add: '.'
